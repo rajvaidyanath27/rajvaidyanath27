@@ -1,11 +1,9 @@
-![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Raj Baidyanath</h1>
-<h3 align="center">An aspiring full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">A passionate full stack developer developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvaidyanath27&label=Profile%20views&color=0e75b6&style=flat" alt="rajvaidyanath27" /> </p>
 
-- 🌱 I’m currently Mastering concepts for **Frontend devloping**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML , CSS**
 
@@ -15,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-baidyanath-b3a02a276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-baidyanath-b3a02a276/" height="30" width="40" /></a>
 <a href="https://instagram.com/r.raj_xz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.raj_xz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajbaidyanath76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajbaidyanath76" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
