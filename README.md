@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvaidyanath27&label=Profile%20views&color=0e75b6&style=flat" alt="rajvaidyanath27" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I'm a passionate Frontend devloper.
 
 - 💬 Ask me about **HTML , CSS**
 
