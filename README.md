@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvaidyanath27&label=Profile%20views&color=0e75b6&style=flat" alt="rajvaidyanath27" /> </p>
 
-- 🌱 I’m currently Sharping my domain in **Frontend.**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML , CSS**
 
 - 📫 How to reach me **rajbaidyanath76@gmail.com**
 
