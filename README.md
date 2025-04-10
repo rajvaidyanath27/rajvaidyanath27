@@ -1,14 +1,45 @@
-# 💫 About Me:
-<h1>Myself Raj Baidyanath</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Hello+World,+Raj+Here+%2F%3E;%3C+Full+Stack+Wizard+%2F%3E">
+</p>
 
-<br>👯 I’m looking to collaborate on Projects<br>
+<p align="center">
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+<hr>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajvaidyanath27&color=red" ></img>
+<a href="https://github.com/rajvaidyanath27"> <img src="https://img.shields.io/github/followers/rajvaidyanath27?label=follow&style=social"></img> </a>
+</p>
+
+<p align="center">
+  <a href="https://portfoliorajsarraf.netlify.app/" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
+</p>
+<hr>
+
+<h3 align="center"> 📫 How to reach me: </h3>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-baidyanath-b3a02a276/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajvaidyanath27) 
+<div align="center" width=full>
+  
+<a href="https://www.linkedin.com/in/raj-baidyanath-b3a02a276/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/r.raj_xz/?hl=en"><img src="https://img.shields.io/badge/rajvaidyanath?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:rajbaidyanath76@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+</div>
+<hr>
+
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,express,nodejs,mongodb,mysql,restapi&perline=7)](https://skillicons.dev)
+
+**other skills include**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vercel,stackoverflow,java,python,postman&perline=7)](https://skillicons.dev)
+<hr>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajvaidyanath27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvaidyanath27&theme=dark&hide_border=false)<br/>
