@@ -33,7 +33,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,express,nodejs,mongodb,mysql,restapi&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,express,nodejs,mongodb,mysql,docker&perline=7)](https://skillicons.dev)
 
 **other skills include**
 
