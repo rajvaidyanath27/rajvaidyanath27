@@ -33,11 +33,11 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nextjs,express,nodejs,mongodb,mysql,docker&perline=7)](https://skillicons.dev)
+None
 
 **other skills include**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vercel,stackoverflow,java,python,postman&perline=7)](https://skillicons.dev)
+Not doone anything
 <hr>
 
 # 📊 GitHub Stats:
