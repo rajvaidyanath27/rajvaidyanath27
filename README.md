@@ -37,7 +37,7 @@
 
 **other skills include**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vercel,stackoverflow,java,python,postman&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vercel,stackoverflow,java,python,postman,aws&perline=7)](https://skillicons.dev)
 <hr>
 
 # 📊 GitHub Stats:
