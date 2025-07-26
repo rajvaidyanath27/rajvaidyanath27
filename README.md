@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfoliorajsarraf.netlify.app/" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
+  <a href="https://rajsarraf.netlify.app/" target="_blank"> <img height=100 width=300 src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg"> </img> </a>
 </p>
 <hr>
 
